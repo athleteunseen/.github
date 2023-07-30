@@ -1,8 +1,4 @@
-# AthleteUnseen
-
-<p align="center">
-  <h1>AthleteUnseen.com<img src="https://athleteunseen.com/img/logo.png" style="width: 200px">
-</h1>
+![a](https://raw.githubusercontent.com/athleteunseen/.github/main/profile/banner.png)
 </p>
 Welcome to AthleteUnseen, a trailblazing organization committed to elevating under-rated athletes and empowering them to soar to new heights. Our unwavering passion for sports and our deep-rooted belief in the untapped potential of every athlete drive us forward on this transformative journey.
 
